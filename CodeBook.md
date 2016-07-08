@@ -6,12 +6,12 @@ After preparing a tidy dataset from the given raw data, we have the following co
 subject_id : Id of the subject (values ranging from 1 to 30)
 activity_id : Name of the activity being performed. 6 different types of activities are recorded.
 
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+- 1 WALKING
+- 2 WALKING_UPSTAIRS
+- 3 WALKING_DOWNSTAIRS
+- 4 SITTING
+- 5 STANDING
+- 6 LAYING
 
 
 
